@@ -3,5 +3,8 @@
   "version": "0.0.0",
   "description": "this is test repository",
   "private": true,
-  "author": "okamuuu"
+  "author": "okamuuu",
+  "dependencies": {
+    "nroonga": "^0.2.5"
+  }
 }
