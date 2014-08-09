@@ -1,12 +1,8 @@
-これは何?
-========
+# これは何?
 
 heroku で node + groonga を使おうと思ったら上手く行かなかったので再現できるようにレポジトリを用意しました。
 
-再現方法
-=======
-
-環境構築
+## 再現方法
 
 ```
 git clone https://github.com/okamuuu/test-heroku-groonga .
@@ -16,7 +12,7 @@ heroku config:add BUILDPACK_URL=https://github.com/ddollar/heroku-buildpack-mult
 git push heroku master
 ```
 
-コマンド実行
+## コマンド実行
 
 json だと返事するが(ちなむと tsv も返事する)
 
