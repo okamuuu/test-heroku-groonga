@@ -18,7 +18,6 @@ git push heroku master
 
 コマンド実行
 
-```
 json だと返事するが(ちなむと tsv も返事する)
 
 ```
