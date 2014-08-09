@@ -1,0 +1,10 @@
+{
+  "name": "test-heroku-groonga",
+  "version": "0.0.0",
+  "description": "this is test repository",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "okamuuu"
+}
