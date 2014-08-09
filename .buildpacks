@@ -1,2 +1,2 @@
-#https://github.com/groonga/heroku-buildpack-groonga.git
+https://github.com/groonga/heroku-buildpack-groonga.git
 https://github.com/heroku/heroku-buildpack-nodejs.git
