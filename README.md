@@ -5,7 +5,7 @@ heroku で node + groonga を使おうと思ったら上手く行かなかった
 ## 再現方法
 
 ```
-git clone https://github.com/okamuuu/test-heroku-groonga .
+git clone https://github.com/okamuuu/test-heroku-groonga
 cd test-heroku-groonga
 heroku create
 heroku config:add BUILDPACK_URL=https://github.com/ddollar/heroku-buildpack-multi.git
