@@ -1,2 +1,3 @@
-https://github.com/groonga/heroku-buildpack-groonga.git
+#https://github.com/groonga/heroku-buildpack-groonga.git
+https://github.com/okamuuu/heroku-buildpack-groonga.git#msgpack-sugryo
 https://github.com/heroku/heroku-buildpack-nodejs.git
