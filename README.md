@@ -28,3 +28,23 @@ msgpack だと返事がない
 % heroku run '~/vendor/groonga/bin/groonga ~/groonga/database status --output_type msgpack'
 Running `~/vendor/groonga/bin/groonga ~/groonga/database status --output_type msgpack` attached to terminal... up, run.1978
 ```
+
+## 修正完了
+
+以下のコマンドで確認可能
+
+```
+% heroku run 'node script/status.js'
+Running `node script/status.js` attached to terminal... up, run.2021
+{ alloc_count: 162,
+  starttime: 1410534955,
+  uptime: 0,
+  version: '4.0.5',
+  n_queries: 0,
+  cache_hit_rate: 0,
+  command_version: 1,
+  default_command_version: 1,
+  max_command_version: 2 }
+```
+
+
